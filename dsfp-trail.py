@@ -268,7 +268,7 @@ def main():
     ###################################
     print(f'Welcome to Day {counter}!!')
     print()
-    print("Bryan: 'Now that we've finished our dicussion about the Code of Conduct,")
+    print("Bryan: 'Now that we've finished our discussion about the Code of Conduct,")
     for x in range(10):
         dotmove(x)
     print("        let's get into today's session. Pull the GitHub...'")
