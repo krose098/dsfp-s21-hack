@@ -10,12 +10,10 @@ class Player(object):
         self.knowledge = 0
 
         # check for vips
-        if self.name.lower() == "bryan":
-            print("Hi Bryan! You're bang up to the elephant!")
-        elif self.name.lower() == "adam":
-            print("Hi Adam, at the end of this week you are required to watch High School Musical")
-        elif self.name.lower() == "sabina":
-            print("HAPPY BIRTHDAY WEEK SABINA!!!!1!!")
+        if self.name.lower() == "manisha":
+            print("Hello Councilwoman Caleb...")
+        elif self.name.lower() == "tim":
+            print("I've always liked you Tim...")
 
     # methods
 
