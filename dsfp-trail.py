@@ -26,7 +26,7 @@ def main():
     print("\n")
     print("You have received an email from esteemed Nobel Laureate in waiting, Bryan Scott! Let's see what he has to say...")
 
-    print(f'''
+    print('''
 
                     .----.
         .---------. | == |
@@ -36,7 +36,7 @@ def main():
         |'-.....-'| |::::|
         `"")---(""` |___.|
         /:::::::::::\" _  "
-        /:::=======:::\`\`\ 
+        /:::=======:::\`\`\  # type: ignore
         `"""""""""""""`  '-'
             
             ''')
